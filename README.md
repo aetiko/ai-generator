@@ -82,13 +82,13 @@ const imageGenerator = async () => {
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="assets/ai-1.png" alt="AI Image Generator" width="600" height="400">
+  <img src="public\ai-1.png" alt="AI Image Generator" width="600" height="400">
 </p>
 <p align="center">
-  <img src="assets/ai-2.png" alt="AI Image Generator" width="600" height="400">
+  <img src="public\ai-2.png" alt="AI Image Generator" width="600" height="400">
 </p>
 <p align="center">
-  <img src="assets/ai-3.png" alt="AI Image Generator" width="600" height="400">
+  <img src="public\ai-3.png" alt="AI Image Generator" width="600" height="400">
 </p>
 
 ## 🔥 Future Enhancements
